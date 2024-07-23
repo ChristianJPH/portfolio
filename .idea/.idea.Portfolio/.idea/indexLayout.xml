@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>portfolio/public/img/about-me.png</Path>
+      <Path>portfolio/public/img/avatar-image-1.png</Path>
+      <Path>portfolio/public/img/avatar-image.png</Path>
+      <Path>portfolio/public/img/hero_img.png</Path>
+    </explicitIncludes>
+    <explicitExcludes />
+  </component>
+</project>
